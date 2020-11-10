@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2020-11-10T13:59:54.290Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="9ByM2rR5MgGoD261VBeC" version="13.9.3" type="github" pages="3">
-  <diagram id="rdlufY1eJZrL40CGyM-H" name="Page-1">
+<mxfile host="app.diagrams.net" modified="2020-11-10T14:00:46.736Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="hUfZWkajJKRapF5cKOSt" version="13.9.3" type="github" pages="3">
+  <diagram id="rdlufY1eJZrL40CGyM-H" name="Layout">
     <mxGraphModel dx="1987" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -48,7 +48,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="83HoaaR1rUi4P4K9Tblx" name="Page-2">
+  <diagram id="83HoaaR1rUi4P4K9Tblx" name="Startseite">
     <mxGraphModel dx="2070" dy="850" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="17JT43-pHX1eOGcm36My-0" />
@@ -121,7 +121,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="_kqyE86XrBS6-ry73gWa" name="Page-3">
+  <diagram id="_kqyE86XrBS6-ry73gWa" name="Artikel erstellen">
     <mxGraphModel dx="2070" dy="850" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="QwSSDkbEvRl1hbeevb0J-0" />
