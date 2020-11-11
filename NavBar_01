@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-11T13:26:32.709Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="F7XRzWTPzzwaSZzoGmh4" version="13.9.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-11-11T13:57:02.556Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="nOYW_cpWXEDuQRbfhNEf" version="13.9.3" type="github" pages="4">
   <diagram id="rdlufY1eJZrL40CGyM-H" name="Layout">
     <mxGraphModel dx="2048" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -277,7 +277,7 @@
             <mxPoint y="40" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="frn7fl3TMylyFGFxrtDV-10" value="Abmelden" style="fillColor=none;strokeColor=none;align=left;spacing=20;fontSize=14;" vertex="1" parent="frn7fl3TMylyFGFxrtDV-7">
+        <mxCell id="frn7fl3TMylyFGFxrtDV-10" value="Abmelden" style="strokeColor=none;align=left;spacing=20;fontSize=14;fillColor=#AE2D00;opacity=30;" vertex="1" parent="frn7fl3TMylyFGFxrtDV-7">
           <mxGeometry width="140" height="30" relative="1" as="geometry">
             <mxPoint y="70" as="offset" />
           </mxGeometry>
@@ -303,6 +303,9 @@
         </mxCell>
         <mxCell id="frn7fl3TMylyFGFxrtDV-20" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;JS Playground&lt;/b&gt;&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeWidth=2;fontColor=#ffffff;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=14;spacingLeft=10;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="txX450f-BtSBekfRXSdu-1">
           <mxGeometry x="600" y="209" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JHa_YoTQ8sJ3Rt_bK4Rn-0" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/very-basic-android-l-lollipop-icon-pack/24/cursor-128.png;strokeColor=#CCCCCC;strokeWidth=2;fillColor=#ffffff;fontColor=#AE2D00;" vertex="1" parent="txX450f-BtSBekfRXSdu-1">
+          <mxGeometry x="1060" y="160" width="48" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
